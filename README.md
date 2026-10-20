@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains the automated web scraping, domain resolution, and historical archive extraction pipeline for analyzing the **Top 20 Startup Incubators in India**. 
 
-To overcome common Web Data Mining challenges—such as dynamic domain migrations (e.g., NASSCOM transitioning from `10000startups.com` to `nasscom.in`), website restructurings, DNS timeouts, and archive rate limiting—this module utilizes an **Automated Internet Archive (Wayback Machine CDX API) Scraper** configured with custom retry logic and exponential backoffs.
+To overcome common Web Data Mining challenges such as dynamic domain migrations (e.g., NASSCOM transitioning from `10000startups.com` to `nasscom.in`), website restructurings, DNS timeouts, and archive rate limiting this module utilizes an **Automated Internet Archive (Wayback Machine CDX API) Scraper** configured with custom retry logic and exponential backoffs.
 
 ---
 
